@@ -1,1 +1,1 @@
-# PRO-C26-EPIC-ARCHERY-STAGE-3
+Project Temlpate 26
